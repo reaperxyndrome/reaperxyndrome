@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![MasterHead](https://github.com/user-attachments/assets/df32690c-2744-45f8-8689-f0d6b03ee5de)](https://github.com/reaperxyndrome)
 
 
