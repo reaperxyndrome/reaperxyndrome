@@ -1,6 +1,9 @@
-## Hi there 👋
-[![ReaperXyndrome's GitHub stats](https://github-readme-stats.vercel.app/api?username=reaperxyndrome)](https://github.com/anuraghazra/github-readme-stats)
-[![MasterHead](https://github.com/user-attachments/assets/df32690c-2744-45f8-8689-f0d6b03ee5de)](https://github.com/reaperxyndrome)
+<div align="center">
+    <img width="460" height="460" src="https://github.com/user-attachments/assets/17c19156-c389-4b1f-b24d-3bac4348dab9">
+</div>
+
+![ReaperXyndrome's GitHub stats](https://github-readme-stats.vercel.app/api?username=reaperxyndrome&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reaperxyndrome)
 
 
 
